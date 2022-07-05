@@ -1,16 +1,37 @@
 *{
   margin: 0;
   padding: 0;
-  box-sizing: border-box;
 }
+/* body{
+  font-family: 'Inter', sans-serif;
+  font-family: 'Poppins', sans-serif;
+} */
 /*==========
 top section
 ============ */
 #top{
-  background-image: url(img/donation10.jpg);
+  background-image: ;
+}
+#top{
+  background-image: linear-gradient(360deg, #121212 0%, rgba(18, 18, 18, 0) 100%), url(img/donation10.jpg);
   width: 100%;
   height: 100vh;
   background-repeat: no-repeat;
   background-size: cover;
   background-position: top center;
+}
+#top div{
+  position: absolute;
+  align-items: center;
+  margin-top: 200px;
+}
+#top div h1{
+  font-family: inter, sans-serif;
+  display: block;
+  text-align: center;
+  font-size: 45px;
+  font-weight: bold;
+  color: #fff;
+  
+
 }
