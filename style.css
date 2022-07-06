@@ -25,12 +25,14 @@ top section
 }
 #top div h1{
   font-family: inter, sans-serif;
+  letter-spacing: 1px;
   font-size: 45px;
   font-weight: bold;
   color: #fff;
 }
 #top div p{
   font-family: 'Poppins', sans-serif;
+  letter-spacing: 1px;
   color: #fff;
 }
 .button{
@@ -43,6 +45,7 @@ top section
   text-align: center;
   color: #fff;
   border-radius: 5px;
+  letter-spacing: 1px;
 }
 /* ========
 section-2
@@ -63,6 +66,7 @@ section-2
 }
 .div-1 p{
   margin: 3px;
+  letter-spacing: 1px;
   font-family: poppine, sans-serif;
   text-align: center;
   font-weight: 400;
@@ -137,6 +141,7 @@ section-2
   text-decoration: none;
   text-align: center;
   font-family: inter,sans-serif;
+  letter-spacing: .5px;
 }
 /*=======
 sectio-3
@@ -158,6 +163,7 @@ sectio-3
 }
 #section-3 .text p{
   margin: 3px;
+  letter-spacing: 1px;
   font-family: poppine, sans-serif;
   text-align: center;
   font-weight: 400;
@@ -186,7 +192,9 @@ sectio-3
 .icon div p{
   font-family: poppine, sans-serif;
   font-size: 14px;
+  letter-spacing: 1px;
   font-weight: 400;
+  letter-spacing: 1px;
 }
 .icon-1{
   background: rgba(79, 157, 166, 0.1);
@@ -215,6 +223,7 @@ section-4
 }
 #section-4 div p{
   margin: 3px;
+  letter-spacing: 1px;
   font-family: poppine, sans-serif;
   text-align: center;
   font-weight: 400;
@@ -249,16 +258,20 @@ footer{
   background-color: #0B0D17;
   height: 180px;
   text-align: center;
+  padding-top: 60px;
 }
 footer h1{
   font-family: inter, sans-serif;
-  margin-top: 50px;
+  font-size: 60px;
+  letter-spacing: 3px;
+  font-family: 'Lobster', cursive;
   color: #FF5959;
 }
 footer h3{
   font-family: popine, sans-serif;
   font-weight: 400;
-  margin-top: 50px;
+  letter-spacing: 2px;
+  margin-top: 20px;
   font-size: 20px;
   color: #FFf;
 }
