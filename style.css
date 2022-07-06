@@ -31,6 +31,7 @@ top section
   color: #fff;
 }
 #top div p{
+  margin-top: 10px;
   font-family: 'Poppins', sans-serif;
   letter-spacing: 1px;
   color: #fff;
