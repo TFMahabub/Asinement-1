@@ -89,6 +89,7 @@ section-2
 }
 .num-2{
   background: #FFEEEE;
+  color: #FF5959;
   border: 3px solid #FF5959;
 }
 .num-3{
@@ -249,7 +250,7 @@ footer{
 }
 footer h1{
   font-family: inter, sans-serif;
-  font-size: 60px;
+  font-size: 50px;
   letter-spacing: 3px;
   font-family: 'Lobster', cursive;
   color: #FF5959;
@@ -259,6 +260,6 @@ footer h3{
   font-weight: 400;
   letter-spacing: 2px;
   margin-top: 20px;
-  font-size: 20px;
+  font-size: 18px;
   color: #FFf;
 }
