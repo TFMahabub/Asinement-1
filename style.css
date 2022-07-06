@@ -137,6 +137,9 @@ section-2
   text-align: center;
   font-family: inter,sans-serif;
 }
+/*=======
+sectio-3
+========= */
 #section-3{
   width: 100%;
   height: 100vh;
@@ -158,4 +161,38 @@ font-family: poppine, sans-serif;
 text-align: center;
 font-weight: 400;
 color: #707070;
+}
+.icon{
+  margin-top: 200px;
+  display: flex;
+  justify-content:space-between;
+}
+.icon div{
+  margin: 0 35px;
+  padding: 60px 40px;
+  border-radius: 5px;
+}
+.icon div img{
+  width: 20%;
+  margin: 5px 0;
+}
+.icon div h4{
+  margin: 4px 0;
+  font-family: poppine, sans-serif;
+  font-size: 24px;
+  font-weight: 600;
+}
+.icon div p{
+  font-family: poppine, sans-serif;
+  font-size: 14px;
+  font-weight: 400;
+}
+.icon-1{
+  background: rgba(79, 157, 166, 0.1);
+}
+.icon-2{
+  background: rgba(255, 89, 89, 0.1);
+}
+.icon-3{
+  background: rgba(255, 227, 65, 0.15);
 }
