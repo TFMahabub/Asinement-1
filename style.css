@@ -1,4 +1,4 @@
-*{
+body{
   margin: 0;
   padding: 0;
 }
@@ -198,7 +198,7 @@ section-4
   height: 100vh;
 }
 #section-4 div{
-  margin-top: 150x;
+  margin-top: 250x;
 }
 #section-4 div h2{
   font-family: inter, sans-serif;
