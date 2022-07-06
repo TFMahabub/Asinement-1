@@ -6,9 +6,6 @@
 top section
 ========================================================== */
 #top{
-  background-image: ;
-}
-#top{
   background-image: linear-gradient(360deg, #121212 0%, rgba(18, 18, 18, .4) 100%), url(img/donation10.jpg);
   width: 100%;
   height: 100vh;
