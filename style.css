@@ -232,6 +232,7 @@ section-4
 }
 #section-4 .search-box label{
   width: 40%;
+  cursor: pointer;
   background-color: #FF5959;
   padding: 12px 33px;
   border-radius: 5px;
