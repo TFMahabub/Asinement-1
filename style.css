@@ -13,25 +13,118 @@ top section
   background-image: ;
 }
 #top{
-  background-image: linear-gradient(360deg, #121212 0%, rgba(18, 18, 18, 0) 100%), url(img/donation10.jpg);
+  background-image: linear-gradient(360deg, #121212 0%, rgba(18, 18, 18, .4) 100%), url(img/donation10.jpg);
   width: 100%;
   height: 100vh;
+  position: relative;
   background-repeat: no-repeat;
   background-size: cover;
+  text-align: center;
   background-position: top center;
 }
 #top div{
+  width: 100%;
   position: absolute;
-  align-items: center;
   margin-top: 200px;
 }
 #top div h1{
   font-family: inter, sans-serif;
-  display: block;
-  text-align: center;
   font-size: 45px;
   font-weight: bold;
   color: #fff;
+}
+#top div p{
+  font-family: 'Poppins', sans-serif;
+  color: #fff;
+}
+.button{
+  font-family:'Inter', sans-serif;
+  margin: 22px auto 0;
+  padding: 12px 16px;
+  background: #FF5959;
+  position: absolute;
+  text-decoration: none;
+  text-align: center;
+  color: #fff;
+  border-radius: 5px;
+}
+/* ========
+section-2
+========== */
+#section-2{
+  width: 100%;
+  height: 100vh;
+  background-color: #fff;
+}
+.div-1{
+  margin-top: 120px;
+}
+.div-1 h2{
+  font-family: inter, sans-serif;
+  text-align: center;
+  font-size: 45px;
+  color: #121212;
+}
+.div-1 p{
+  font-family: poppine, sans-serif;
+  text-align: center;
+  font-weight: 400;
+  color: #707070;
+}
+.div-2{
+  margin-top: 100px;
+  justify-content:space-evenly;
+  display: flex;
   
-
+  /* position: relative; */
+}
+/* .div-2 > div{
+  margin: 10 px;
+  padding: 20px;
+  display: inline-block;
+  font-family: inter, sans-serif;
+  width: 125px;
+  height: 120px;
+  margin: 0 20px;
+  font-size: 40px;
+  color: #707070;
+  border-radius: 10px;
+  background-color: #FAFAFA;
+  text-align: center;
+  padding-top: ;
+} */
+.div-2 > div{
+  background-color: #FAFAFA;
+  font-family: inter, sans-serif;
+  font-size: 40px;
+  margin: 0 50 px;
+  padding: 60px 40px;
+  border-radius: 10px;
+}
+.num-2{
+  background-color: #FFEEEE;
+  color: #FF5959;
+  border: 3px solid #FF5959;
+}
+.div-3.5{
+  margin-top: 100px;
+  align-items: center;
+}
+.input{
+  padding:10px 15px;
+  border-radius: 5px;
+  border: 1px solid #FF5959;
+  outline: none;
+  font-size: 18px;
+}
+.div-3 .btn{
+  width:250px;
+  padding: 12px 16px;
+  background-color: #FF5959;
+  border-radius: 5px;
+  color:white;
+  font-weight:bold;
+  font-size: 17px;
+  text-decoration: none;
+  font-family: inter,sans-serif;
 }
