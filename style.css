@@ -215,10 +215,9 @@ section-4
   color: #707070;
 }
 #section-4 .search-box{
-  margin-top: 100px;
   width: 40%;
   padding: 70px 50px;
-  text-align: center;
+  margin: 70px auto;
   border-radius: 5px;
   background: #FFF4D6;
 }
